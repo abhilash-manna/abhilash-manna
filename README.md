@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhilash</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<!--
 - 🔭 I’m currently working on [QCLINUX](https://www.qualcomm.com/developer/software/qualcomm-linux)
 
 - 📫 How to reach me **abhilasha.mannna2020@gmail.com**
-<!--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
